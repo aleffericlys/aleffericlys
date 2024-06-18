@@ -18,9 +18,8 @@ Olá! Sou Aleff Ericlys, um entusiasta da tecnologia com sólida formação téc
 ## Objetivos Profissionais
 Meu objetivo é aplicar e expandir minhas habilidades técnicas e de desenvolvimento em um ambiente desafiador e colaborativo. Estou sempre em busca de novas oportunidades para aprender e crescer, contribuindo para projetos que façam a diferença.
 
-##
+## Perfis
 
-### Github
 
 logo abaixo pode-se encontrar alguns dados sobre meu perfil no Github e algumas opções de contato:
 
@@ -41,7 +40,7 @@ logo abaixo pode-se encontrar alguns dados sobre meu perfil no Github e algumas 
   <img align="center" alt="Aleff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aleff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aleff-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Aleff-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Aleff-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Aleff-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Aleff-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 </div>
