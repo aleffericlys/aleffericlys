@@ -18,6 +18,11 @@ Olá! Sou Aleff Ericlys, um entusiasta da tecnologia com sólida formação téc
 ## Objetivos Profissionais
 Meu objetivo é aplicar e expandir minhas habilidades técnicas e de desenvolvimento em um ambiente desafiador e colaborativo. Estou sempre em busca de novas oportunidades para aprender e crescer, contribuindo para projetos que façam a diferença.
 
+##
+
+### Github
+
+logo abaixo pode-se encontrar alguns dados sobre meu perfil no Github e algumas opções de contato:
 
 <div>
   <a href="https://github.com/aleffericlys">
