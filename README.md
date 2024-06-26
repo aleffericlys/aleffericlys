@@ -11,7 +11,7 @@ Olá! Sou Aleff Ericlys, um entusiasta da tecnologia com sólida formação téc
 - VueJS: Desenvolvimento de interfaces de usuário interativas e responsivas.
 - React Native: Criação de aplicativos móveis nativos para iOS e Android com desempenho otimizado.
 - HTML & CSS: Conhecimento avançado em desenvolvimento front-end, garantindo acessibilidade e design responsivo.
-- Docker: Conhecimento em componentizar de aplicações dirante seu desenvolvimento.
+- Docker: Conhecimento em componentizar de aplicações durante seu desenvolvimento.
 - Métodos Ágeis: Experiência em trabalhar com metodologias ágeis, como Scrum e Kanban, para melhorar a eficiência e colaboração em projetos.
 ## Formação Acadêmica
 - Bacharel em Sistemas de Informação (em andamento) na Universidade Federal do Piauí (UFPI) - Campus Senador Helvídio Nunes de Barros, Picos
